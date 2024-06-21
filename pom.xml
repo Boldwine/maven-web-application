@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://http://54.165.134.45:8081/repository/tesla-be-releases/</url>
+	      <url>http://107.22.73.175:8081/repository/zain-be-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://54.165.134.45:8081/repository/tesla-be-snapshots/</url>
+	      <url> http://107.22.73.175:8081/repository/zain-be-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
